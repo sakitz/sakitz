@@ -5,7 +5,7 @@
      <h3 align="center"> Aqui abajo te dejo mi informacion por cualquier duda o pregunta😃</h3>
 </div>
 
-### 👨‍💻 About Me :
+### 👨‍💻 Sobre Mi :
 
 - 📫 si quieres contactarte puede hacerlo en benjaminlopezmia@gmail.com
 
